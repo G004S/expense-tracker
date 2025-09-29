@@ -1,0 +1,29 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.pkl
+*.egg-info/
+.build/
+
+# Virtual env
+.venv/
+venv/
+ENV/
+env/
+
+# Editor/OS
+.idea/
+.vscode/
+.DS_Store
+
+# Tests/coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local data (оставь только демо-файлы)
+data/*.db
